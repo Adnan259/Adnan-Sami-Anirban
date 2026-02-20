@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Adnan Anirban
+  Hi 👋, I'm Adnan Sami Anirban
 </h1>
 
 <h3 align="center">
