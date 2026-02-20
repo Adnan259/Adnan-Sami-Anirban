@@ -11,11 +11,11 @@
 ---
 
 ### 🧐 About Me
-I am **Adnan Sami Anirban**, currently an Intern at **ADN Semiconductor**. I am deeply curious about the world of silicon design and functional verification, focusing on how complex logic is built and rigorously tested.
+I am **Adnan Sami Anirban**. I am currently an Intern at **ADN Semiconductor**, where I am exploring the fascinating world of hardware design and functional verification.
 
-- 🌱 **Currently Learning:** Advanced Functional Verification (SystemVerilog & OOP principles).
-- 🔭 **Objective:** Mastering industry-standard protocols and verification methodologies.
-- ⚡ **Interest:** Computer Architecture, FPGA Prototyping, and Digital Logic Optimization.
+- 🌱 **Currently Learning:** Functional Verification methodologies using **SystemVerilog** and **OOP**.
+- 🏗️ **Focus:** Learning how to bridge architectural specs with verified RTL.
+- 🛠️ **Tools of Choice:** Vivado, Questasim, and ModelSim.
 
 ---
 
@@ -23,13 +23,13 @@ I am **Adnan Sami Anirban**, currently an Intern at **ADN Semiconductor**. I am 
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **HDL/HVL** | `Verilog` `SystemVerilog` `OOP Basics` |
-| **EDA Tools** | `Vivado` `Questasim` `ModelSim` |
-| **Programming** | `C` `C++` `Python (Scripting)` |
+| **HDL/HVL** | `Verilog`, `SystemVerilog`, `OOP` |
+| **EDA Tools** | `Vivado`, `Questasim`, `ModelSim` |
+| **Programming** | `C`, `C++`, `Python` |
 
 ---
 
-### 📊 GitHub Activity (Adnan259)
+### 📊 GitHub Insights
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adnan259&show_icons=true&theme=radical&rank_icon=github" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan259&layout=compact&theme=radical&hide=html,css" />
@@ -41,17 +41,11 @@ I am **Adnan Sami Anirban**, currently an Intern at **ADN Semiconductor**. I am 
 
 ---
 
-### 🐍 The Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adnan259/Adnan259/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 <p align="center">
-<a href="mailto:adnananirban259@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:adnananirban259@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adnananirban259%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
